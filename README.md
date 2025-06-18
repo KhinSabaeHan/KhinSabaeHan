@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-image-link/banner.png" width="100%" alt="Banner" />
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="dev-banner" />
 </p>
 
 # Heya 👋, I'm Khin Sabae
@@ -10,8 +10,6 @@
 🎯 Passionate about building user-friendly full-stack web apps  
 🧠 Always learning new tech  
 📨 Email me: khinsabae@gmail.com
-
-[📄 Resume](https://your-website.com/resume.pdf)
 
 ---
 
@@ -30,7 +28,6 @@
 ### Frameworks & Libraries
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
 </p>
@@ -58,5 +55,5 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/khin-sabae)  
-🌐 [Portfolio](https://www.khin.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khinsabaehan/)  
+🌐 [Portfolio](https://khinsabaehan.github.io/)
