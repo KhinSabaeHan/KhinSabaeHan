@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="dev-banner" />
+ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/working.gif" width="350" />
 </p>
 
-# Heya 👋, I'm Khin Sabae
+# Hi 👋, I'm Khin Sabae
 
 💻 Software Engineer with over 9 years of experience in Order Management, Finance, and Logistics systems (Japan 🇯🇵 → USA 🇺🇸)  
 🌱 Currently exploring freelance work and full-time roles in the US  
