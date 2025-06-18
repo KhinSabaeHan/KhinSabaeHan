@@ -1,62 +1,62 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-image-link/banner.png" width="100%" alt="Banner" />
+</p>
 
-# 👩‍💻 Khin Sabae's Developer Portfolio
+# Heya 👋, I'm Khin Sabae
 
-Welcome to my portfolio! I'm a professional software engineer with over 9 years of experience in full-stack development. My background includes work in Order Management, Finance, and Logistics industries in Japan, and I'm now based in the US looking for freelance and full-time opportunities.
+💻 Software Engineer with over 9 years of experience in Order Management, Finance, and Logistics systems (Japan 🇯🇵 → USA 🇺🇸)  
+🌱 Currently exploring freelance work and full-time roles in the US  
+🎯 Passionate about building user-friendly full-stack web apps  
+🧠 Always learning new tech  
+📨 Email me: khinsabae@gmail.com
 
----
-
-## 🛠️ Skills & Technologies
-
-- **Languages**: Java, C#, JavaScript, SQL
-- **Frameworks**: ASP.NET, Spring, jQuery
-- **Frontend**: HTML5, CSS3, Bootstrap
-- **Databases**: MySQL, PostgreSQL, SQL Server
-- **Tools**: Git, GitHub, VS Code, Visual Studio
-
----
-
-## 🌐 Live Website
-
-🔗 [www.khin.me](https://www.khin.me)
+[📄 Resume](https://your-website.com/resume.pdf)
 
 ---
 
-## 📂 Projects
+## 🛠️ My Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+</p>
+
+---
+
+## 📦 Featured Projects
 
 ### 🎵 Music Booking System
-A system to manage concert bookings and artist scheduling.
-- Artist & Venue management
-- Booking calendar and availability
-- Admin dashboard
+- Artist & venue management
+- Booking calendar
+- Admin tools
 
 ### 🏨 Hotel Reservation System
-Web app to handle room reservations and discount calculations.
-- Dynamic rate management
+- Room reservation
+- Discount rate logic
 - Reservation history
-- User-friendly UI
 
 ### 📦 Distribution Management System
-Backend system for tracking inventory and customer orders.
-- Inventory control
-- Lease and maintenance schedule
+- Inventory & order tracking
+- Lease status monitoring
+- Maintenance scheduling
 
 ---
 
-## 📸 Screenshots
+## 📫 Let's Connect
 
-![Project Screenshot](./img/project1.png)
-
----
-
-## 📥 Contact
-
-📧 Email: khinsabae@gmail.com  
-📱 LinkedIn: [linkedin.com/in/khin-sabae](https://linkedin.com/in/khin-sabae)
-
----
-
-## 📝 License
-
-This project and portfolio are for showcase purposes only.
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/khin-sabae)  
+🌐 [Portfolio](https://www.khin.me)
